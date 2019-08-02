@@ -1,0 +1,3 @@
+se necesita instalar la siguiente libreria num2words atravez de pip o algún otro manejador de paquetes de python.
+
+pip install num2words 
